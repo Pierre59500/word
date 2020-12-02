@@ -1,2 +1,2 @@
 # word
-Voir si ça marche ou pas
+Mettre des dossiers word sur GitHub
